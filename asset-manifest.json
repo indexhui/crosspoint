@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/crosspoint/static/js/main.67dfbf64.chunk.js",
-    "main.js.map": "/crosspoint/static/js/main.67dfbf64.chunk.js.map",
-    "runtime-main.js": "/crosspoint/static/js/runtime-main.f94ae012.js",
-    "runtime-main.js.map": "/crosspoint/static/js/runtime-main.f94ae012.js.map",
+    "main.js": "/crosspoint/static/js/main.8752fab9.chunk.js",
+    "main.js.map": "/crosspoint/static/js/main.8752fab9.chunk.js.map",
+    "runtime-main.js": "/crosspoint/static/js/runtime-main.4cffdad7.js",
+    "runtime-main.js.map": "/crosspoint/static/js/runtime-main.4cffdad7.js.map",
     "static/css/2.6e3f2b01.chunk.css": "/crosspoint/static/css/2.6e3f2b01.chunk.css",
-    "static/js/2.ba77b361.chunk.js": "/crosspoint/static/js/2.ba77b361.chunk.js",
-    "static/js/2.ba77b361.chunk.js.map": "/crosspoint/static/js/2.ba77b361.chunk.js.map",
-    "static/js/3.6ff2e09f.chunk.js": "/crosspoint/static/js/3.6ff2e09f.chunk.js",
-    "static/js/3.6ff2e09f.chunk.js.map": "/crosspoint/static/js/3.6ff2e09f.chunk.js.map",
+    "static/js/2.34690379.chunk.js": "/crosspoint/static/js/2.34690379.chunk.js",
+    "static/js/2.34690379.chunk.js.map": "/crosspoint/static/js/2.34690379.chunk.js.map",
+    "static/js/3.f55abf50.chunk.js": "/crosspoint/static/js/3.f55abf50.chunk.js",
+    "static/js/3.f55abf50.chunk.js.map": "/crosspoint/static/js/3.f55abf50.chunk.js.map",
     "index.html": "/crosspoint/index.html",
     "static/css/2.6e3f2b01.chunk.css.map": "/crosspoint/static/css/2.6e3f2b01.chunk.css.map",
-    "static/js/2.ba77b361.chunk.js.LICENSE.txt": "/crosspoint/static/js/2.ba77b361.chunk.js.LICENSE.txt",
+    "static/js/2.34690379.chunk.js.LICENSE.txt": "/crosspoint/static/js/2.34690379.chunk.js.LICENSE.txt",
     "static/media/coach01.71dc6ee1.jpg": "/crosspoint/static/media/coach01.71dc6ee1.jpg",
     "static/media/coach02.cd2162b4.png": "/crosspoint/static/media/coach02.cd2162b4.png",
     "static/media/demo.901bfe4d.png": "/crosspoint/static/media/demo.901bfe4d.png",
@@ -46,9 +46,9 @@
     "static/media/track.bf4b4de6.png": "/crosspoint/static/media/track.bf4b4de6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f94ae012.js",
+    "static/js/runtime-main.4cffdad7.js",
     "static/css/2.6e3f2b01.chunk.css",
-    "static/js/2.ba77b361.chunk.js",
-    "static/js/main.67dfbf64.chunk.js"
+    "static/js/2.34690379.chunk.js",
+    "static/js/main.8752fab9.chunk.js"
   ]
 }
