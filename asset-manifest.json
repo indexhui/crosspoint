@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/crosspoint/static/js/main.d9a18ff1.chunk.js",
-    "main.js.map": "/crosspoint/static/js/main.d9a18ff1.chunk.js.map",
+    "main.js": "/crosspoint/static/js/main.946a5a74.chunk.js",
+    "main.js.map": "/crosspoint/static/js/main.946a5a74.chunk.js.map",
     "runtime-main.js": "/crosspoint/static/js/runtime-main.7ea642fe.js",
     "runtime-main.js.map": "/crosspoint/static/js/runtime-main.7ea642fe.js.map",
     "static/css/2.6e3f2b01.chunk.css": "/crosspoint/static/css/2.6e3f2b01.chunk.css",
-    "static/js/2.7bb4bcb1.chunk.js": "/crosspoint/static/js/2.7bb4bcb1.chunk.js",
-    "static/js/2.7bb4bcb1.chunk.js.map": "/crosspoint/static/js/2.7bb4bcb1.chunk.js.map",
+    "static/js/2.14e4973a.chunk.js": "/crosspoint/static/js/2.14e4973a.chunk.js",
+    "static/js/2.14e4973a.chunk.js.map": "/crosspoint/static/js/2.14e4973a.chunk.js.map",
     "static/js/3.112b5f6f.chunk.js": "/crosspoint/static/js/3.112b5f6f.chunk.js",
     "static/js/3.112b5f6f.chunk.js.map": "/crosspoint/static/js/3.112b5f6f.chunk.js.map",
     "index.html": "/crosspoint/index.html",
     "static/css/2.6e3f2b01.chunk.css.map": "/crosspoint/static/css/2.6e3f2b01.chunk.css.map",
-    "static/js/2.7bb4bcb1.chunk.js.LICENSE.txt": "/crosspoint/static/js/2.7bb4bcb1.chunk.js.LICENSE.txt",
+    "static/js/2.14e4973a.chunk.js.LICENSE.txt": "/crosspoint/static/js/2.14e4973a.chunk.js.LICENSE.txt",
     "static/media/caseHero.60c907a5.png": "/crosspoint/static/media/caseHero.60c907a5.png",
     "static/media/caseLandseed.224ca3c4.jpg": "/crosspoint/static/media/caseLandseed.224ca3c4.jpg",
     "static/media/casePulseGym.18057d9d.jpg": "/crosspoint/static/media/casePulseGym.18057d9d.jpg",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.7ea642fe.js",
     "static/css/2.6e3f2b01.chunk.css",
-    "static/js/2.7bb4bcb1.chunk.js",
-    "static/js/main.d9a18ff1.chunk.js"
+    "static/js/2.14e4973a.chunk.js",
+    "static/js/main.946a5a74.chunk.js"
   ]
 }
